@@ -1,0 +1,12 @@
+{
+  "name": "cuidadoninosv4",
+  "version": "1.0.0",
+  "description": "Negocio web",
+  "main": "index.js",
+  "author": "Danya<danya.gomes012@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}
